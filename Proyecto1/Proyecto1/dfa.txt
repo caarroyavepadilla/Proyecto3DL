@@ -1,0 +1,566 @@
+estado: 0
+Aceptacion: False
+Transicion: 0 Con: E
+Transicion: 1 Con: 0
+Transicion: 2 Con: 1
+Transicion: 3 Con: 2
+Transicion: 4 Con: 3
+Transicion: 5 Con: 4
+Transicion: 6 Con: 5
+Transicion: 7 Con: 6
+Transicion: 8 Con: 7
+Transicion: 9 Con: 8
+Transicion: 10 Con: 9
+estado: 1
+Aceptacion: False
+Transicion: 1 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 2
+Aceptacion: False
+Transicion: 2 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 3
+Aceptacion: False
+Transicion: 3 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 4
+Aceptacion: False
+Transicion: 4 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 5
+Aceptacion: False
+Transicion: 5 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 6
+Aceptacion: False
+Transicion: 6 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 7
+Aceptacion: False
+Transicion: 7 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 8
+Aceptacion: False
+Transicion: 8 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 9
+Aceptacion: False
+Transicion: 9 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 10
+Aceptacion: False
+Transicion: 10 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 11
+Aceptacion: False
+Transicion: 11 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 12
+Aceptacion: False
+Transicion: 12 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 13
+Aceptacion: False
+Transicion: 13 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 14
+Aceptacion: False
+Transicion: 14 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 15
+Aceptacion: False
+Transicion: 15 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 16
+Aceptacion: False
+Transicion: 16 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 17
+Aceptacion: False
+Transicion: 17 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 18
+Aceptacion: False
+Transicion: 18 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 19
+Aceptacion: False
+Transicion: 19 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 20
+Aceptacion: False
+Transicion: 20 Con: E
+Transicion: 11 Con: 0
+Transicion: 12 Con: 1
+Transicion: 13 Con: 2
+Transicion: 14 Con: 3
+Transicion: 15 Con: 4
+Transicion: 16 Con: 5
+Transicion: 17 Con: 6
+Transicion: 18 Con: 7
+Transicion: 19 Con: 8
+Transicion: 20 Con: 9
+Transicion: 21 Con: .
+estado: 21
+Aceptacion: False
+Transicion: 21 Con: E
+Transicion: 22 Con: 0
+Transicion: 23 Con: 1
+Transicion: 24 Con: 2
+Transicion: 25 Con: 3
+Transicion: 26 Con: 4
+Transicion: 27 Con: 5
+Transicion: 28 Con: 6
+Transicion: 29 Con: 7
+Transicion: 30 Con: 8
+Transicion: 31 Con: 9
+estado: 22
+Aceptacion: True
+Transicion: 22 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 23
+Aceptacion: True
+Transicion: 23 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 24
+Aceptacion: True
+Transicion: 24 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 25
+Aceptacion: True
+Transicion: 25 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 26
+Aceptacion: True
+Transicion: 26 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 27
+Aceptacion: True
+Transicion: 27 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 28
+Aceptacion: True
+Transicion: 28 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 29
+Aceptacion: True
+Transicion: 29 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 30
+Aceptacion: True
+Transicion: 30 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 31
+Aceptacion: True
+Transicion: 31 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 32
+Aceptacion: True
+Transicion: 32 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 33
+Aceptacion: True
+Transicion: 33 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 34
+Aceptacion: True
+Transicion: 34 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 35
+Aceptacion: True
+Transicion: 35 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 36
+Aceptacion: True
+Transicion: 36 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 37
+Aceptacion: True
+Transicion: 37 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 38
+Aceptacion: True
+Transicion: 38 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 39
+Aceptacion: True
+Transicion: 39 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 40
+Aceptacion: True
+Transicion: 40 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9
+estado: 41
+Aceptacion: True
+Transicion: 41 Con: E
+Transicion: 32 Con: 0
+Transicion: 33 Con: 1
+Transicion: 34 Con: 2
+Transicion: 35 Con: 3
+Transicion: 36 Con: 4
+Transicion: 37 Con: 5
+Transicion: 38 Con: 6
+Transicion: 39 Con: 7
+Transicion: 40 Con: 8
+Transicion: 41 Con: 9

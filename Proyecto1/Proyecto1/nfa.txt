@@ -1,0 +1,2043 @@
+estado: 0
+Aceptacion: False
+Transicion: 0 Con: E
+Transicion: 1 Con: E
+Transicion: 37 Con: E
+estado: 1
+Aceptacion: False
+Transicion: 1 Con: E
+Transicion: 2 Con: E
+Transicion: 24 Con: E
+estado: 2
+Aceptacion: False
+Transicion: 2 Con: E
+Transicion: 3 Con: E
+Transicion: 19 Con: E
+estado: 3
+Aceptacion: False
+Transicion: 3 Con: E
+Transicion: 4 Con: E
+Transicion: 14 Con: E
+estado: 4
+Aceptacion: False
+Transicion: 4 Con: E
+Transicion: 5 Con: w
+estado: 5
+Aceptacion: False
+Transicion: 5 Con: E
+Transicion: 6 Con: E
+estado: 6
+Aceptacion: False
+Transicion: 6 Con: E
+Transicion: 7 Con: h
+estado: 7
+Aceptacion: False
+Transicion: 7 Con: E
+Transicion: 8 Con: E
+estado: 8
+Aceptacion: False
+Transicion: 8 Con: E
+Transicion: 9 Con: i
+estado: 9
+Aceptacion: False
+Transicion: 9 Con: E
+Transicion: 10 Con: E
+estado: 10
+Aceptacion: False
+Transicion: 10 Con: E
+Transicion: 11 Con: l
+estado: 11
+Aceptacion: False
+Transicion: 11 Con: E
+Transicion: 12 Con: E
+estado: 12
+Aceptacion: False
+Transicion: 12 Con: E
+Transicion: 13 Con: e
+estado: 13
+Aceptacion: False
+Transicion: 13 Con: E
+Transicion: 18 Con: E
+estado: 14
+Aceptacion: False
+Transicion: 14 Con: E
+Transicion: 15 Con: d
+estado: 15
+Aceptacion: False
+Transicion: 15 Con: E
+Transicion: 16 Con: E
+estado: 16
+Aceptacion: False
+Transicion: 16 Con: E
+Transicion: 17 Con: o
+estado: 17
+Aceptacion: False
+Transicion: 17 Con: E
+Transicion: 18 Con: E
+estado: 18
+Aceptacion: False
+Transicion: 18 Con: E
+Transicion: 23 Con: E
+estado: 19
+Aceptacion: False
+Transicion: 19 Con: E
+Transicion: 20 Con: i
+estado: 20
+Aceptacion: False
+Transicion: 20 Con: E
+Transicion: 21 Con: E
+estado: 21
+Aceptacion: False
+Transicion: 21 Con: E
+Transicion: 22 Con: f
+estado: 22
+Aceptacion: False
+Transicion: 22 Con: E
+Transicion: 23 Con: E
+estado: 23
+Aceptacion: False
+Transicion: 23 Con: E
+Transicion: 36 Con: E
+estado: 24
+Aceptacion: False
+Transicion: 24 Con: E
+Transicion: 25 Con: s
+estado: 25
+Aceptacion: False
+Transicion: 25 Con: E
+Transicion: 26 Con: E
+estado: 26
+Aceptacion: False
+Transicion: 26 Con: E
+Transicion: 27 Con: w
+estado: 27
+Aceptacion: False
+Transicion: 27 Con: E
+Transicion: 28 Con: E
+estado: 28
+Aceptacion: False
+Transicion: 28 Con: E
+Transicion: 29 Con: i
+estado: 29
+Aceptacion: False
+Transicion: 29 Con: E
+Transicion: 30 Con: E
+estado: 30
+Aceptacion: False
+Transicion: 30 Con: E
+Transicion: 31 Con: t
+estado: 31
+Aceptacion: False
+Transicion: 31 Con: E
+Transicion: 32 Con: E
+estado: 32
+Aceptacion: False
+Transicion: 32 Con: E
+Transicion: 33 Con: c
+estado: 33
+Aceptacion: False
+Transicion: 33 Con: E
+Transicion: 34 Con: E
+estado: 34
+Aceptacion: False
+Transicion: 34 Con: E
+Transicion: 35 Con: h
+estado: 35
+Aceptacion: False
+Transicion: 35 Con: E
+Transicion: 36 Con: E
+estado: 36
+Aceptacion: False
+Transicion: 36 Con: E
+Transicion: 571 Con: E
+estado: 37
+Aceptacion: False
+Transicion: 37 Con: E
+Transicion: 38 Con: E
+Transicion: 492 Con: E
+estado: 38
+Aceptacion: False
+Transicion: 38 Con: E
+Transicion: 39 Con: E
+Transicion: 241 Con: E
+estado: 39
+Aceptacion: False
+Transicion: 39 Con: E
+Transicion: 40 Con: E
+Transicion: 238 Con: E
+estado: 40
+Aceptacion: False
+Transicion: 40 Con: E
+Transicion: 41 Con: E
+Transicion: 235 Con: E
+estado: 41
+Aceptacion: False
+Transicion: 41 Con: E
+Transicion: 42 Con: E
+Transicion: 232 Con: E
+estado: 42
+Aceptacion: False
+Transicion: 42 Con: E
+Transicion: 43 Con: E
+Transicion: 229 Con: E
+estado: 43
+Aceptacion: False
+Transicion: 43 Con: E
+Transicion: 44 Con: E
+Transicion: 226 Con: E
+estado: 44
+Aceptacion: False
+Transicion: 44 Con: E
+Transicion: 45 Con: E
+Transicion: 223 Con: E
+estado: 45
+Aceptacion: False
+Transicion: 45 Con: E
+Transicion: 46 Con: E
+Transicion: 220 Con: E
+estado: 46
+Aceptacion: False
+Transicion: 46 Con: E
+Transicion: 47 Con: E
+Transicion: 217 Con: E
+estado: 47
+Aceptacion: False
+Transicion: 47 Con: E
+Transicion: 48 Con: E
+Transicion: 214 Con: E
+estado: 48
+Aceptacion: False
+Transicion: 48 Con: E
+Transicion: 49 Con: E
+Transicion: 211 Con: E
+estado: 49
+Aceptacion: False
+Transicion: 49 Con: E
+Transicion: 50 Con: E
+Transicion: 208 Con: E
+estado: 50
+Aceptacion: False
+Transicion: 50 Con: E
+Transicion: 51 Con: E
+Transicion: 205 Con: E
+estado: 51
+Aceptacion: False
+Transicion: 51 Con: E
+Transicion: 52 Con: E
+Transicion: 202 Con: E
+estado: 52
+Aceptacion: False
+Transicion: 52 Con: E
+Transicion: 53 Con: E
+Transicion: 199 Con: E
+estado: 53
+Aceptacion: False
+Transicion: 53 Con: E
+Transicion: 54 Con: E
+Transicion: 196 Con: E
+estado: 54
+Aceptacion: False
+Transicion: 54 Con: E
+Transicion: 55 Con: E
+Transicion: 193 Con: E
+estado: 55
+Aceptacion: False
+Transicion: 55 Con: E
+Transicion: 56 Con: E
+Transicion: 190 Con: E
+estado: 56
+Aceptacion: False
+Transicion: 56 Con: E
+Transicion: 57 Con: E
+Transicion: 187 Con: E
+estado: 57
+Aceptacion: False
+Transicion: 57 Con: E
+Transicion: 58 Con: E
+Transicion: 184 Con: E
+estado: 58
+Aceptacion: False
+Transicion: 58 Con: E
+Transicion: 59 Con: E
+Transicion: 181 Con: E
+estado: 59
+Aceptacion: False
+Transicion: 59 Con: E
+Transicion: 60 Con: E
+Transicion: 178 Con: E
+estado: 60
+Aceptacion: False
+Transicion: 60 Con: E
+Transicion: 61 Con: E
+Transicion: 175 Con: E
+estado: 61
+Aceptacion: False
+Transicion: 61 Con: E
+Transicion: 62 Con: E
+Transicion: 172 Con: E
+estado: 62
+Aceptacion: False
+Transicion: 62 Con: E
+Transicion: 63 Con: E
+Transicion: 169 Con: E
+estado: 63
+Aceptacion: False
+Transicion: 63 Con: E
+Transicion: 64 Con: E
+Transicion: 166 Con: E
+estado: 64
+Aceptacion: False
+Transicion: 64 Con: E
+Transicion: 65 Con: E
+Transicion: 163 Con: E
+estado: 65
+Aceptacion: False
+Transicion: 65 Con: E
+Transicion: 66 Con: E
+Transicion: 160 Con: E
+estado: 66
+Aceptacion: False
+Transicion: 66 Con: E
+Transicion: 67 Con: E
+Transicion: 157 Con: E
+estado: 67
+Aceptacion: False
+Transicion: 67 Con: E
+Transicion: 68 Con: E
+Transicion: 154 Con: E
+estado: 68
+Aceptacion: False
+Transicion: 68 Con: E
+Transicion: 69 Con: E
+Transicion: 151 Con: E
+estado: 69
+Aceptacion: False
+Transicion: 69 Con: E
+Transicion: 70 Con: E
+Transicion: 148 Con: E
+estado: 70
+Aceptacion: False
+Transicion: 70 Con: E
+Transicion: 71 Con: E
+Transicion: 145 Con: E
+estado: 71
+Aceptacion: False
+Transicion: 71 Con: E
+Transicion: 72 Con: E
+Transicion: 142 Con: E
+estado: 72
+Aceptacion: False
+Transicion: 72 Con: E
+Transicion: 73 Con: E
+Transicion: 139 Con: E
+estado: 73
+Aceptacion: False
+Transicion: 73 Con: E
+Transicion: 74 Con: E
+Transicion: 136 Con: E
+estado: 74
+Aceptacion: False
+Transicion: 74 Con: E
+Transicion: 75 Con: E
+Transicion: 133 Con: E
+estado: 75
+Aceptacion: False
+Transicion: 75 Con: E
+Transicion: 76 Con: E
+Transicion: 130 Con: E
+estado: 76
+Aceptacion: False
+Transicion: 76 Con: E
+Transicion: 77 Con: E
+Transicion: 127 Con: E
+estado: 77
+Aceptacion: False
+Transicion: 77 Con: E
+Transicion: 78 Con: E
+Transicion: 124 Con: E
+estado: 78
+Aceptacion: False
+Transicion: 78 Con: E
+Transicion: 79 Con: E
+Transicion: 121 Con: E
+estado: 79
+Aceptacion: False
+Transicion: 79 Con: E
+Transicion: 80 Con: E
+Transicion: 118 Con: E
+estado: 80
+Aceptacion: False
+Transicion: 80 Con: E
+Transicion: 81 Con: E
+Transicion: 115 Con: E
+estado: 81
+Aceptacion: False
+Transicion: 81 Con: E
+Transicion: 82 Con: E
+Transicion: 112 Con: E
+estado: 82
+Aceptacion: False
+Transicion: 82 Con: E
+Transicion: 83 Con: E
+Transicion: 109 Con: E
+estado: 83
+Aceptacion: False
+Transicion: 83 Con: E
+Transicion: 84 Con: E
+Transicion: 106 Con: E
+estado: 84
+Aceptacion: False
+Transicion: 84 Con: E
+Transicion: 85 Con: E
+Transicion: 103 Con: E
+estado: 85
+Aceptacion: False
+Transicion: 85 Con: E
+Transicion: 86 Con: E
+Transicion: 100 Con: E
+estado: 86
+Aceptacion: False
+Transicion: 86 Con: E
+Transicion: 87 Con: E
+Transicion: 97 Con: E
+estado: 87
+Aceptacion: False
+Transicion: 87 Con: E
+Transicion: 88 Con: E
+Transicion: 94 Con: E
+estado: 88
+Aceptacion: False
+Transicion: 88 Con: E
+Transicion: 89 Con: E
+Transicion: 91 Con: E
+estado: 89
+Aceptacion: False
+Transicion: 89 Con: E
+Transicion: 90 Con: A
+estado: 90
+Aceptacion: False
+Transicion: 90 Con: E
+Transicion: 93 Con: E
+estado: 91
+Aceptacion: False
+Transicion: 91 Con: E
+Transicion: 92 Con: B
+estado: 92
+Aceptacion: False
+Transicion: 92 Con: E
+Transicion: 93 Con: E
+estado: 93
+Aceptacion: False
+Transicion: 93 Con: E
+Transicion: 96 Con: E
+estado: 94
+Aceptacion: False
+Transicion: 94 Con: E
+Transicion: 95 Con: C
+estado: 95
+Aceptacion: False
+Transicion: 95 Con: E
+Transicion: 96 Con: E
+estado: 96
+Aceptacion: False
+Transicion: 96 Con: E
+Transicion: 99 Con: E
+estado: 97
+Aceptacion: False
+Transicion: 97 Con: E
+Transicion: 98 Con: D
+estado: 98
+Aceptacion: False
+Transicion: 98 Con: E
+Transicion: 99 Con: E
+estado: 99
+Aceptacion: False
+Transicion: 99 Con: E
+Transicion: 102 Con: E
+estado: 100
+Aceptacion: False
+Transicion: 100 Con: E
+Transicion: 101 Con: E
+estado: 101
+Aceptacion: False
+Transicion: 101 Con: E
+Transicion: 102 Con: E
+estado: 102
+Aceptacion: False
+Transicion: 102 Con: E
+Transicion: 105 Con: E
+estado: 103
+Aceptacion: False
+Transicion: 103 Con: E
+Transicion: 104 Con: F
+estado: 104
+Aceptacion: False
+Transicion: 104 Con: E
+Transicion: 105 Con: E
+estado: 105
+Aceptacion: False
+Transicion: 105 Con: E
+Transicion: 108 Con: E
+estado: 106
+Aceptacion: False
+Transicion: 106 Con: E
+Transicion: 107 Con: G
+estado: 107
+Aceptacion: False
+Transicion: 107 Con: E
+Transicion: 108 Con: E
+estado: 108
+Aceptacion: False
+Transicion: 108 Con: E
+Transicion: 111 Con: E
+estado: 109
+Aceptacion: False
+Transicion: 109 Con: E
+Transicion: 110 Con: H
+estado: 110
+Aceptacion: False
+Transicion: 110 Con: E
+Transicion: 111 Con: E
+estado: 111
+Aceptacion: False
+Transicion: 111 Con: E
+Transicion: 114 Con: E
+estado: 112
+Aceptacion: False
+Transicion: 112 Con: E
+Transicion: 113 Con: I
+estado: 113
+Aceptacion: False
+Transicion: 113 Con: E
+Transicion: 114 Con: E
+estado: 114
+Aceptacion: False
+Transicion: 114 Con: E
+Transicion: 117 Con: E
+estado: 115
+Aceptacion: False
+Transicion: 115 Con: E
+Transicion: 116 Con: J
+estado: 116
+Aceptacion: False
+Transicion: 116 Con: E
+Transicion: 117 Con: E
+estado: 117
+Aceptacion: False
+Transicion: 117 Con: E
+Transicion: 120 Con: E
+estado: 118
+Aceptacion: False
+Transicion: 118 Con: E
+Transicion: 119 Con: K
+estado: 119
+Aceptacion: False
+Transicion: 119 Con: E
+Transicion: 120 Con: E
+estado: 120
+Aceptacion: False
+Transicion: 120 Con: E
+Transicion: 123 Con: E
+estado: 121
+Aceptacion: False
+Transicion: 121 Con: E
+Transicion: 122 Con: L
+estado: 122
+Aceptacion: False
+Transicion: 122 Con: E
+Transicion: 123 Con: E
+estado: 123
+Aceptacion: False
+Transicion: 123 Con: E
+Transicion: 126 Con: E
+estado: 124
+Aceptacion: False
+Transicion: 124 Con: E
+Transicion: 125 Con: M
+estado: 125
+Aceptacion: False
+Transicion: 125 Con: E
+Transicion: 126 Con: E
+estado: 126
+Aceptacion: False
+Transicion: 126 Con: E
+Transicion: 129 Con: E
+estado: 127
+Aceptacion: False
+Transicion: 127 Con: E
+Transicion: 128 Con: N
+estado: 128
+Aceptacion: False
+Transicion: 128 Con: E
+Transicion: 129 Con: E
+estado: 129
+Aceptacion: False
+Transicion: 129 Con: E
+Transicion: 132 Con: E
+estado: 130
+Aceptacion: False
+Transicion: 130 Con: E
+Transicion: 131 Con: O
+estado: 131
+Aceptacion: False
+Transicion: 131 Con: E
+Transicion: 132 Con: E
+estado: 132
+Aceptacion: False
+Transicion: 132 Con: E
+Transicion: 135 Con: E
+estado: 133
+Aceptacion: False
+Transicion: 133 Con: E
+Transicion: 134 Con: P
+estado: 134
+Aceptacion: False
+Transicion: 134 Con: E
+Transicion: 135 Con: E
+estado: 135
+Aceptacion: False
+Transicion: 135 Con: E
+Transicion: 138 Con: E
+estado: 136
+Aceptacion: False
+Transicion: 136 Con: E
+Transicion: 137 Con: Q
+estado: 137
+Aceptacion: False
+Transicion: 137 Con: E
+Transicion: 138 Con: E
+estado: 138
+Aceptacion: False
+Transicion: 138 Con: E
+Transicion: 141 Con: E
+estado: 139
+Aceptacion: False
+Transicion: 139 Con: E
+Transicion: 140 Con: R
+estado: 140
+Aceptacion: False
+Transicion: 140 Con: E
+Transicion: 141 Con: E
+estado: 141
+Aceptacion: False
+Transicion: 141 Con: E
+Transicion: 144 Con: E
+estado: 142
+Aceptacion: False
+Transicion: 142 Con: E
+Transicion: 143 Con: S
+estado: 143
+Aceptacion: False
+Transicion: 143 Con: E
+Transicion: 144 Con: E
+estado: 144
+Aceptacion: False
+Transicion: 144 Con: E
+Transicion: 147 Con: E
+estado: 145
+Aceptacion: False
+Transicion: 145 Con: E
+Transicion: 146 Con: T
+estado: 146
+Aceptacion: False
+Transicion: 146 Con: E
+Transicion: 147 Con: E
+estado: 147
+Aceptacion: False
+Transicion: 147 Con: E
+Transicion: 150 Con: E
+estado: 148
+Aceptacion: False
+Transicion: 148 Con: E
+Transicion: 149 Con: U
+estado: 149
+Aceptacion: False
+Transicion: 149 Con: E
+Transicion: 150 Con: E
+estado: 150
+Aceptacion: False
+Transicion: 150 Con: E
+Transicion: 153 Con: E
+estado: 151
+Aceptacion: False
+Transicion: 151 Con: E
+Transicion: 152 Con: V
+estado: 152
+Aceptacion: False
+Transicion: 152 Con: E
+Transicion: 153 Con: E
+estado: 153
+Aceptacion: False
+Transicion: 153 Con: E
+Transicion: 156 Con: E
+estado: 154
+Aceptacion: False
+Transicion: 154 Con: E
+Transicion: 155 Con: W
+estado: 155
+Aceptacion: False
+Transicion: 155 Con: E
+Transicion: 156 Con: E
+estado: 156
+Aceptacion: False
+Transicion: 156 Con: E
+Transicion: 159 Con: E
+estado: 157
+Aceptacion: False
+Transicion: 157 Con: E
+Transicion: 158 Con: X
+estado: 158
+Aceptacion: False
+Transicion: 158 Con: E
+Transicion: 159 Con: E
+estado: 159
+Aceptacion: False
+Transicion: 159 Con: E
+Transicion: 162 Con: E
+estado: 160
+Aceptacion: False
+Transicion: 160 Con: E
+Transicion: 161 Con: Y
+estado: 161
+Aceptacion: False
+Transicion: 161 Con: E
+Transicion: 162 Con: E
+estado: 162
+Aceptacion: False
+Transicion: 162 Con: E
+Transicion: 165 Con: E
+estado: 163
+Aceptacion: False
+Transicion: 163 Con: E
+Transicion: 164 Con: Z
+estado: 164
+Aceptacion: False
+Transicion: 164 Con: E
+Transicion: 165 Con: E
+estado: 165
+Aceptacion: False
+Transicion: 165 Con: E
+Transicion: 168 Con: E
+estado: 166
+Aceptacion: False
+Transicion: 166 Con: E
+Transicion: 167 Con: a
+estado: 167
+Aceptacion: False
+Transicion: 167 Con: E
+Transicion: 168 Con: E
+estado: 168
+Aceptacion: False
+Transicion: 168 Con: E
+Transicion: 171 Con: E
+estado: 169
+Aceptacion: False
+Transicion: 169 Con: E
+Transicion: 170 Con: b
+estado: 170
+Aceptacion: False
+Transicion: 170 Con: E
+Transicion: 171 Con: E
+estado: 171
+Aceptacion: False
+Transicion: 171 Con: E
+Transicion: 174 Con: E
+estado: 172
+Aceptacion: False
+Transicion: 172 Con: E
+Transicion: 173 Con: c
+estado: 173
+Aceptacion: False
+Transicion: 173 Con: E
+Transicion: 174 Con: E
+estado: 174
+Aceptacion: False
+Transicion: 174 Con: E
+Transicion: 177 Con: E
+estado: 175
+Aceptacion: False
+Transicion: 175 Con: E
+Transicion: 176 Con: d
+estado: 176
+Aceptacion: False
+Transicion: 176 Con: E
+Transicion: 177 Con: E
+estado: 177
+Aceptacion: False
+Transicion: 177 Con: E
+Transicion: 180 Con: E
+estado: 178
+Aceptacion: False
+Transicion: 178 Con: E
+Transicion: 179 Con: e
+estado: 179
+Aceptacion: False
+Transicion: 179 Con: E
+Transicion: 180 Con: E
+estado: 180
+Aceptacion: False
+Transicion: 180 Con: E
+Transicion: 183 Con: E
+estado: 181
+Aceptacion: False
+Transicion: 181 Con: E
+Transicion: 182 Con: f
+estado: 182
+Aceptacion: False
+Transicion: 182 Con: E
+Transicion: 183 Con: E
+estado: 183
+Aceptacion: False
+Transicion: 183 Con: E
+Transicion: 186 Con: E
+estado: 184
+Aceptacion: False
+Transicion: 184 Con: E
+Transicion: 185 Con: g
+estado: 185
+Aceptacion: False
+Transicion: 185 Con: E
+Transicion: 186 Con: E
+estado: 186
+Aceptacion: False
+Transicion: 186 Con: E
+Transicion: 189 Con: E
+estado: 187
+Aceptacion: False
+Transicion: 187 Con: E
+Transicion: 188 Con: h
+estado: 188
+Aceptacion: False
+Transicion: 188 Con: E
+Transicion: 189 Con: E
+estado: 189
+Aceptacion: False
+Transicion: 189 Con: E
+Transicion: 192 Con: E
+estado: 190
+Aceptacion: False
+Transicion: 190 Con: E
+Transicion: 191 Con: i
+estado: 191
+Aceptacion: False
+Transicion: 191 Con: E
+Transicion: 192 Con: E
+estado: 192
+Aceptacion: False
+Transicion: 192 Con: E
+Transicion: 195 Con: E
+estado: 193
+Aceptacion: False
+Transicion: 193 Con: E
+Transicion: 194 Con: j
+estado: 194
+Aceptacion: False
+Transicion: 194 Con: E
+Transicion: 195 Con: E
+estado: 195
+Aceptacion: False
+Transicion: 195 Con: E
+Transicion: 198 Con: E
+estado: 196
+Aceptacion: False
+Transicion: 196 Con: E
+Transicion: 197 Con: k
+estado: 197
+Aceptacion: False
+Transicion: 197 Con: E
+Transicion: 198 Con: E
+estado: 198
+Aceptacion: False
+Transicion: 198 Con: E
+Transicion: 201 Con: E
+estado: 199
+Aceptacion: False
+Transicion: 199 Con: E
+Transicion: 200 Con: l
+estado: 200
+Aceptacion: False
+Transicion: 200 Con: E
+Transicion: 201 Con: E
+estado: 201
+Aceptacion: False
+Transicion: 201 Con: E
+Transicion: 204 Con: E
+estado: 202
+Aceptacion: False
+Transicion: 202 Con: E
+Transicion: 203 Con: m
+estado: 203
+Aceptacion: False
+Transicion: 203 Con: E
+Transicion: 204 Con: E
+estado: 204
+Aceptacion: False
+Transicion: 204 Con: E
+Transicion: 207 Con: E
+estado: 205
+Aceptacion: False
+Transicion: 205 Con: E
+Transicion: 206 Con: n
+estado: 206
+Aceptacion: False
+Transicion: 206 Con: E
+Transicion: 207 Con: E
+estado: 207
+Aceptacion: False
+Transicion: 207 Con: E
+Transicion: 210 Con: E
+estado: 208
+Aceptacion: False
+Transicion: 208 Con: E
+Transicion: 209 Con: o
+estado: 209
+Aceptacion: False
+Transicion: 209 Con: E
+Transicion: 210 Con: E
+estado: 210
+Aceptacion: False
+Transicion: 210 Con: E
+Transicion: 213 Con: E
+estado: 211
+Aceptacion: False
+Transicion: 211 Con: E
+Transicion: 212 Con: p
+estado: 212
+Aceptacion: False
+Transicion: 212 Con: E
+Transicion: 213 Con: E
+estado: 213
+Aceptacion: False
+Transicion: 213 Con: E
+Transicion: 216 Con: E
+estado: 214
+Aceptacion: False
+Transicion: 214 Con: E
+Transicion: 215 Con: q
+estado: 215
+Aceptacion: False
+Transicion: 215 Con: E
+Transicion: 216 Con: E
+estado: 216
+Aceptacion: False
+Transicion: 216 Con: E
+Transicion: 219 Con: E
+estado: 217
+Aceptacion: False
+Transicion: 217 Con: E
+Transicion: 218 Con: r
+estado: 218
+Aceptacion: False
+Transicion: 218 Con: E
+Transicion: 219 Con: E
+estado: 219
+Aceptacion: False
+Transicion: 219 Con: E
+Transicion: 222 Con: E
+estado: 220
+Aceptacion: False
+Transicion: 220 Con: E
+Transicion: 221 Con: s
+estado: 221
+Aceptacion: False
+Transicion: 221 Con: E
+Transicion: 222 Con: E
+estado: 222
+Aceptacion: False
+Transicion: 222 Con: E
+Transicion: 225 Con: E
+estado: 223
+Aceptacion: False
+Transicion: 223 Con: E
+Transicion: 224 Con: t
+estado: 224
+Aceptacion: False
+Transicion: 224 Con: E
+Transicion: 225 Con: E
+estado: 225
+Aceptacion: False
+Transicion: 225 Con: E
+Transicion: 228 Con: E
+estado: 226
+Aceptacion: False
+Transicion: 226 Con: E
+Transicion: 227 Con: u
+estado: 227
+Aceptacion: False
+Transicion: 227 Con: E
+Transicion: 228 Con: E
+estado: 228
+Aceptacion: False
+Transicion: 228 Con: E
+Transicion: 231 Con: E
+estado: 229
+Aceptacion: False
+Transicion: 229 Con: E
+Transicion: 230 Con: v
+estado: 230
+Aceptacion: False
+Transicion: 230 Con: E
+Transicion: 231 Con: E
+estado: 231
+Aceptacion: False
+Transicion: 231 Con: E
+Transicion: 234 Con: E
+estado: 232
+Aceptacion: False
+Transicion: 232 Con: E
+Transicion: 233 Con: w
+estado: 233
+Aceptacion: False
+Transicion: 233 Con: E
+Transicion: 234 Con: E
+estado: 234
+Aceptacion: False
+Transicion: 234 Con: E
+Transicion: 237 Con: E
+estado: 235
+Aceptacion: False
+Transicion: 235 Con: E
+Transicion: 236 Con: x
+estado: 236
+Aceptacion: False
+Transicion: 236 Con: E
+Transicion: 237 Con: E
+estado: 237
+Aceptacion: False
+Transicion: 237 Con: E
+Transicion: 240 Con: E
+estado: 238
+Aceptacion: False
+Transicion: 238 Con: E
+Transicion: 239 Con: y
+estado: 239
+Aceptacion: False
+Transicion: 239 Con: E
+Transicion: 240 Con: E
+estado: 240
+Aceptacion: False
+Transicion: 240 Con: E
+Transicion: 243 Con: E
+estado: 241
+Aceptacion: False
+Transicion: 241 Con: E
+Transicion: 242 Con: z
+estado: 242
+Aceptacion: False
+Transicion: 242 Con: E
+Transicion: 243 Con: E
+estado: 243
+Aceptacion: False
+Transicion: 243 Con: E
+Transicion: 244 Con: E
+estado: 244
+Aceptacion: False
+Transicion: 244 Con: E
+Transicion: 245 Con: E
+Transicion: 491 Con: E
+estado: 245
+Aceptacion: False
+Transicion: 245 Con: E
+Transicion: 246 Con: E
+Transicion: 452 Con: E
+estado: 246
+Aceptacion: False
+Transicion: 246 Con: E
+Transicion: 247 Con: E
+Transicion: 449 Con: E
+estado: 247
+Aceptacion: False
+Transicion: 247 Con: E
+Transicion: 248 Con: E
+Transicion: 446 Con: E
+estado: 248
+Aceptacion: False
+Transicion: 248 Con: E
+Transicion: 249 Con: E
+Transicion: 443 Con: E
+estado: 249
+Aceptacion: False
+Transicion: 249 Con: E
+Transicion: 250 Con: E
+Transicion: 440 Con: E
+estado: 250
+Aceptacion: False
+Transicion: 250 Con: E
+Transicion: 251 Con: E
+Transicion: 437 Con: E
+estado: 251
+Aceptacion: False
+Transicion: 251 Con: E
+Transicion: 252 Con: E
+Transicion: 434 Con: E
+estado: 252
+Aceptacion: False
+Transicion: 252 Con: E
+Transicion: 253 Con: E
+Transicion: 431 Con: E
+estado: 253
+Aceptacion: False
+Transicion: 253 Con: E
+Transicion: 254 Con: E
+Transicion: 428 Con: E
+estado: 254
+Aceptacion: False
+Transicion: 254 Con: E
+Transicion: 255 Con: E
+Transicion: 425 Con: E
+estado: 255
+Aceptacion: False
+Transicion: 255 Con: E
+Transicion: 256 Con: E
+Transicion: 422 Con: E
+estado: 256
+Aceptacion: False
+Transicion: 256 Con: E
+Transicion: 257 Con: E
+Transicion: 419 Con: E
+estado: 257
+Aceptacion: False
+Transicion: 257 Con: E
+Transicion: 258 Con: E
+Transicion: 416 Con: E
+estado: 258
+Aceptacion: False
+Transicion: 258 Con: E
+Transicion: 259 Con: E
+Transicion: 413 Con: E
+estado: 259
+Aceptacion: False
+Transicion: 259 Con: E
+Transicion: 260 Con: E
+Transicion: 410 Con: E
+estado: 260
+Aceptacion: False
+Transicion: 260 Con: E
+Transicion: 261 Con: E
+Transicion: 407 Con: E
+estado: 261
+Aceptacion: False
+Transicion: 261 Con: E
+Transicion: 262 Con: E
+Transicion: 404 Con: E
+estado: 262
+Aceptacion: False
+Transicion: 262 Con: E
+Transicion: 263 Con: E
+Transicion: 401 Con: E
+estado: 263
+Aceptacion: False
+Transicion: 263 Con: E
+Transicion: 264 Con: E
+Transicion: 398 Con: E
+estado: 264
+Aceptacion: False
+Transicion: 264 Con: E
+Transicion: 265 Con: E
+Transicion: 395 Con: E
+estado: 265
+Aceptacion: False
+Transicion: 265 Con: E
+Transicion: 266 Con: E
+Transicion: 392 Con: E
+estado: 266
+Aceptacion: False
+Transicion: 266 Con: E
+Transicion: 267 Con: E
+Transicion: 389 Con: E
+estado: 267
+Aceptacion: False
+Transicion: 267 Con: E
+Transicion: 268 Con: E
+Transicion: 386 Con: E
+estado: 268
+Aceptacion: False
+Transicion: 268 Con: E
+Transicion: 269 Con: E
+Transicion: 383 Con: E
+estado: 269
+Aceptacion: False
+Transicion: 269 Con: E
+Transicion: 270 Con: E
+Transicion: 380 Con: E
+estado: 270
+Aceptacion: False
+Transicion: 270 Con: E
+Transicion: 271 Con: E
+Transicion: 377 Con: E
+estado: 271
+Aceptacion: False
+Transicion: 271 Con: E
+Transicion: 272 Con: E
+Transicion: 374 Con: E
+estado: 272
+Aceptacion: False
+Transicion: 272 Con: E
+Transicion: 273 Con: E
+Transicion: 371 Con: E
+estado: 273
+Aceptacion: False
+Transicion: 273 Con: E
+Transicion: 274 Con: E
+Transicion: 368 Con: E
+estado: 274
+Aceptacion: False
+Transicion: 274 Con: E
+Transicion: 275 Con: E
+Transicion: 365 Con: E
+estado: 275
+Aceptacion: False
+Transicion: 275 Con: E
+Transicion: 276 Con: E
+Transicion: 362 Con: E
+estado: 276
+Aceptacion: False
+Transicion: 276 Con: E
+Transicion: 277 Con: E
+Transicion: 359 Con: E
+estado: 277
+Aceptacion: False
+Transicion: 277 Con: E
+Transicion: 278 Con: E
+Transicion: 356 Con: E
+estado: 278
+Aceptacion: False
+Transicion: 278 Con: E
+Transicion: 279 Con: E
+Transicion: 353 Con: E
+estado: 279
+Aceptacion: False
+Transicion: 279 Con: E
+Transicion: 280 Con: E
+Transicion: 350 Con: E
+estado: 280
+Aceptacion: False
+Transicion: 280 Con: E
+Transicion: 281 Con: E
+Transicion: 347 Con: E
+estado: 281
+Aceptacion: False
+Transicion: 281 Con: E
+Transicion: 282 Con: E
+Transicion: 344 Con: E
+estado: 282
+Aceptacion: False
+Transicion: 282 Con: E
+Transicion: 283 Con: E
+Transicion: 341 Con: E
+estado: 283
+Aceptacion: False
+Transicion: 283 Con: E
+Transicion: 284 Con: E
+Transicion: 338 Con: E
+estado: 284
+Aceptacion: False
+Transicion: 284 Con: E
+Transicion: 285 Con: E
+Transicion: 335 Con: E
+estado: 285
+Aceptacion: False
+Transicion: 285 Con: E
+Transicion: 286 Con: E
+Transicion: 332 Con: E
+estado: 286
+Aceptacion: False
+Transicion: 286 Con: E
+Transicion: 287 Con: E
+Transicion: 329 Con: E
+estado: 287
+Aceptacion: False
+Transicion: 287 Con: E
+Transicion: 288 Con: E
+Transicion: 326 Con: E
+estado: 288
+Aceptacion: False
+Transicion: 288 Con: E
+Transicion: 289 Con: E
+Transicion: 323 Con: E
+estado: 289
+Aceptacion: False
+Transicion: 289 Con: E
+Transicion: 290 Con: E
+Transicion: 320 Con: E
+estado: 290
+Aceptacion: False
+Transicion: 290 Con: E
+Transicion: 291 Con: E
+Transicion: 317 Con: E
+estado: 291
+Aceptacion: False
+Transicion: 291 Con: E
+Transicion: 292 Con: E
+Transicion: 314 Con: E
+estado: 292
+Aceptacion: False
+Transicion: 292 Con: E
+Transicion: 293 Con: E
+Transicion: 311 Con: E
+estado: 293
+Aceptacion: False
+Transicion: 293 Con: E
+Transicion: 294 Con: E
+Transicion: 308 Con: E
+estado: 294
+Aceptacion: False
+Transicion: 294 Con: E
+Transicion: 295 Con: E
+Transicion: 305 Con: E
+estado: 295
+Aceptacion: False
+Transicion: 295 Con: E
+Transicion: 296 Con: E
+Transicion: 302 Con: E
+estado: 296
+Aceptacion: False
+Transicion: 296 Con: E
+Transicion: 297 Con: E
+Transicion: 299 Con: E
+estado: 297
+Aceptacion: False
+Transicion: 297 Con: E
+Transicion: 298 Con: A
+estado: 298
+Aceptacion: False
+Transicion: 298 Con: E
+Transicion: 301 Con: E
+estado: 299
+Aceptacion: False
+Transicion: 299 Con: E
+Transicion: 300 Con: B
+estado: 300
+Aceptacion: False
+Transicion: 300 Con: E
+Transicion: 301 Con: E
+estado: 301
+Aceptacion: False
+Transicion: 301 Con: E
+Transicion: 304 Con: E
+estado: 302
+Aceptacion: False
+Transicion: 302 Con: E
+Transicion: 303 Con: C
+estado: 303
+Aceptacion: False
+Transicion: 303 Con: E
+Transicion: 304 Con: E
+estado: 304
+Aceptacion: False
+Transicion: 304 Con: E
+Transicion: 307 Con: E
+estado: 305
+Aceptacion: False
+Transicion: 305 Con: E
+Transicion: 306 Con: D
+estado: 306
+Aceptacion: False
+Transicion: 306 Con: E
+Transicion: 307 Con: E
+estado: 307
+Aceptacion: False
+Transicion: 307 Con: E
+Transicion: 310 Con: E
+estado: 308
+Aceptacion: False
+Transicion: 308 Con: E
+Transicion: 309 Con: E
+estado: 309
+Aceptacion: False
+Transicion: 309 Con: E
+Transicion: 310 Con: E
+estado: 310
+Aceptacion: False
+Transicion: 310 Con: E
+Transicion: 313 Con: E
+estado: 311
+Aceptacion: False
+Transicion: 311 Con: E
+Transicion: 312 Con: F
+estado: 312
+Aceptacion: False
+Transicion: 312 Con: E
+Transicion: 313 Con: E
+estado: 313
+Aceptacion: False
+Transicion: 313 Con: E
+Transicion: 316 Con: E
+estado: 314
+Aceptacion: False
+Transicion: 314 Con: E
+Transicion: 315 Con: G
+estado: 315
+Aceptacion: False
+Transicion: 315 Con: E
+Transicion: 316 Con: E
+estado: 316
+Aceptacion: False
+Transicion: 316 Con: E
+Transicion: 319 Con: E
+estado: 317
+Aceptacion: False
+Transicion: 317 Con: E
+Transicion: 318 Con: H
+estado: 318
+Aceptacion: False
+Transicion: 318 Con: E
+Transicion: 319 Con: E
+estado: 319
+Aceptacion: False
+Transicion: 319 Con: E
+Transicion: 322 Con: E
+estado: 320
+Aceptacion: False
+Transicion: 320 Con: E
+Transicion: 321 Con: I
+estado: 321
+Aceptacion: False
+Transicion: 321 Con: E
+Transicion: 322 Con: E
+estado: 322
+Aceptacion: False
+Transicion: 322 Con: E
+Transicion: 325 Con: E
+estado: 323
+Aceptacion: False
+Transicion: 323 Con: E
+Transicion: 324 Con: J
+estado: 324
+Aceptacion: False
+Transicion: 324 Con: E
+Transicion: 325 Con: E
+estado: 325
+Aceptacion: False
+Transicion: 325 Con: E
+Transicion: 328 Con: E
+estado: 326
+Aceptacion: False
+Transicion: 326 Con: E
+Transicion: 327 Con: K
+estado: 327
+Aceptacion: False
+Transicion: 327 Con: E
+Transicion: 328 Con: E
+estado: 328
+Aceptacion: False
+Transicion: 328 Con: E
+Transicion: 331 Con: E
+estado: 329
+Aceptacion: False
+Transicion: 329 Con: E
+Transicion: 330 Con: L
+estado: 330
+Aceptacion: False
+Transicion: 330 Con: E
+Transicion: 331 Con: E
+estado: 331
+Aceptacion: False
+Transicion: 331 Con: E
+Transicion: 334 Con: E
+estado: 332
+Aceptacion: False
+Transicion: 332 Con: E
+Transicion: 333 Con: M
+estado: 333
+Aceptacion: False
+Transicion: 333 Con: E
+Transicion: 334 Con: E
+estado: 334
+Aceptacion: False
+Transicion: 334 Con: E
+Transicion: 337 Con: E
+estado: 335
+Aceptacion: False
+Transicion: 335 Con: E
+Transicion: 336 Con: N
+estado: 336
+Aceptacion: False
+Transicion: 336 Con: E
+Transicion: 337 Con: E
+estado: 337
+Aceptacion: False
+Transicion: 337 Con: E
+Transicion: 340 Con: E
+estado: 338
+Aceptacion: False
+Transicion: 338 Con: E
+Transicion: 339 Con: O
+estado: 339
+Aceptacion: False
+Transicion: 339 Con: E
+Transicion: 340 Con: E
+estado: 340
+Aceptacion: False
+Transicion: 340 Con: E
+Transicion: 343 Con: E
+estado: 341
+Aceptacion: False
+Transicion: 341 Con: E
+Transicion: 342 Con: P
+estado: 342
+Aceptacion: False
+Transicion: 342 Con: E
+Transicion: 343 Con: E
+estado: 343
+Aceptacion: False
+Transicion: 343 Con: E
+Transicion: 346 Con: E
+estado: 344
+Aceptacion: False
+Transicion: 344 Con: E
+Transicion: 345 Con: Q
+estado: 345
+Aceptacion: False
+Transicion: 345 Con: E
+Transicion: 346 Con: E
+estado: 346
+Aceptacion: False
+Transicion: 346 Con: E
+Transicion: 349 Con: E
+estado: 347
+Aceptacion: False
+Transicion: 347 Con: E
+Transicion: 348 Con: R
+estado: 348
+Aceptacion: False
+Transicion: 348 Con: E
+Transicion: 349 Con: E
+estado: 349
+Aceptacion: False
+Transicion: 349 Con: E
+Transicion: 352 Con: E
+estado: 350
+Aceptacion: False
+Transicion: 350 Con: E
+Transicion: 351 Con: S
+estado: 351
+Aceptacion: False
+Transicion: 351 Con: E
+Transicion: 352 Con: E
+estado: 352
+Aceptacion: False
+Transicion: 352 Con: E
+Transicion: 355 Con: E
+estado: 353
+Aceptacion: False
+Transicion: 353 Con: E
+Transicion: 354 Con: T
+estado: 354
+Aceptacion: False
+Transicion: 354 Con: E
+Transicion: 355 Con: E
+estado: 355
+Aceptacion: False
+Transicion: 355 Con: E
+Transicion: 358 Con: E
+estado: 356
+Aceptacion: False
+Transicion: 356 Con: E
+Transicion: 357 Con: U
+estado: 357
+Aceptacion: False
+Transicion: 357 Con: E
+Transicion: 358 Con: E
+estado: 358
+Aceptacion: False
+Transicion: 358 Con: E
+Transicion: 361 Con: E
+estado: 359
+Aceptacion: False
+Transicion: 359 Con: E
+Transicion: 360 Con: V
+estado: 360
+Aceptacion: False
+Transicion: 360 Con: E
+Transicion: 361 Con: E
+estado: 361
+Aceptacion: False
+Transicion: 361 Con: E
+Transicion: 364 Con: E
+estado: 362
+Aceptacion: False
+Transicion: 362 Con: E
+Transicion: 363 Con: W
+estado: 363
+Aceptacion: False
+Transicion: 363 Con: E
+Transicion: 364 Con: E
+estado: 364
+Aceptacion: False
+Transicion: 364 Con: E
+Transicion: 367 Con: E
+estado: 365
+Aceptacion: False
+Transicion: 365 Con: E
+Transicion: 366 Con: X
+estado: 366
+Aceptacion: False
+Transicion: 366 Con: E
+Transicion: 367 Con: E
+estado: 367
+Aceptacion: False
+Transicion: 367 Con: E
+Transicion: 370 Con: E
+estado: 368
+Aceptacion: False
+Transicion: 368 Con: E
+Transicion: 369 Con: Y
+estado: 369
+Aceptacion: False
+Transicion: 369 Con: E
+Transicion: 370 Con: E
+estado: 370
+Aceptacion: False
+Transicion: 370 Con: E
+Transicion: 373 Con: E
+estado: 371
+Aceptacion: False
+Transicion: 371 Con: E
+Transicion: 372 Con: Z
+estado: 372
+Aceptacion: False
+Transicion: 372 Con: E
+Transicion: 373 Con: E
+estado: 373
+Aceptacion: False
+Transicion: 373 Con: E
+Transicion: 376 Con: E
+estado: 374
+Aceptacion: False
+Transicion: 374 Con: E
+Transicion: 375 Con: a
+estado: 375
+Aceptacion: False
+Transicion: 375 Con: E
+Transicion: 376 Con: E
+estado: 376
+Aceptacion: False
+Transicion: 376 Con: E
+Transicion: 379 Con: E
+estado: 377
+Aceptacion: False
+Transicion: 377 Con: E
+Transicion: 378 Con: b
+estado: 378
+Aceptacion: False
+Transicion: 378 Con: E
+Transicion: 379 Con: E
+estado: 379
+Aceptacion: False
+Transicion: 379 Con: E
+Transicion: 382 Con: E
+estado: 380
+Aceptacion: False
+Transicion: 380 Con: E
+Transicion: 381 Con: c
+estado: 381
+Aceptacion: False
+Transicion: 381 Con: E
+Transicion: 382 Con: E
+estado: 382
+Aceptacion: False
+Transicion: 382 Con: E
+Transicion: 385 Con: E
+estado: 383
+Aceptacion: False
+Transicion: 383 Con: E
+Transicion: 384 Con: d
+estado: 384
+Aceptacion: False
+Transicion: 384 Con: E
+Transicion: 385 Con: E
+estado: 385
+Aceptacion: False
+Transicion: 385 Con: E
+Transicion: 388 Con: E
+estado: 386
+Aceptacion: False
+Transicion: 386 Con: E
+Transicion: 387 Con: e
+estado: 387
+Aceptacion: False
+Transicion: 387 Con: E
+Transicion: 388 Con: E
+estado: 388
+Aceptacion: False
+Transicion: 388 Con: E
+Transicion: 391 Con: E
+estado: 389
+Aceptacion: False
+Transicion: 389 Con: E
+Transicion: 390 Con: f
+estado: 390
+Aceptacion: False
+Transicion: 390 Con: E
+Transicion: 391 Con: E
+estado: 391
+Aceptacion: False
+Transicion: 391 Con: E
+Transicion: 394 Con: E
+estado: 392
+Aceptacion: False
+Transicion: 392 Con: E
+Transicion: 393 Con: g
+estado: 393
+Aceptacion: False
+Transicion: 393 Con: E
+Transicion: 394 Con: E
+estado: 394
+Aceptacion: False
+Transicion: 394 Con: E
+Transicion: 397 Con: E
+estado: 395
+Aceptacion: False
+Transicion: 395 Con: E
+Transicion: 396 Con: h
+estado: 396
+Aceptacion: False
+Transicion: 396 Con: E
+Transicion: 397 Con: E
+estado: 397
+Aceptacion: False
+Transicion: 397 Con: E
+Transicion: 400 Con: E
+estado: 398
+Aceptacion: False
+Transicion: 398 Con: E
+Transicion: 399 Con: i
+estado: 399
+Aceptacion: False
+Transicion: 399 Con: E
+Transicion: 400 Con: E
+estado: 400
+Aceptacion: False
+Transicion: 400 Con: E
+Transicion: 403 Con: E
+estado: 401
+Aceptacion: False
+Transicion: 401 Con: E
+Transicion: 402 Con: j
+estado: 402
+Aceptacion: False
+Transicion: 402 Con: E
+Transicion: 403 Con: E
+estado: 403
+Aceptacion: False
+Transicion: 403 Con: E
+Transicion: 406 Con: E
+estado: 404
+Aceptacion: False
+Transicion: 404 Con: E
+Transicion: 405 Con: k
+estado: 405
+Aceptacion: False
+Transicion: 405 Con: E
+Transicion: 406 Con: E
+estado: 406
+Aceptacion: False
+Transicion: 406 Con: E
+Transicion: 409 Con: E
+estado: 407
+Aceptacion: False
+Transicion: 407 Con: E
+Transicion: 408 Con: l
+estado: 408
+Aceptacion: False
+Transicion: 408 Con: E
+Transicion: 409 Con: E
+estado: 409
+Aceptacion: False
+Transicion: 409 Con: E
+Transicion: 412 Con: E
+estado: 410
+Aceptacion: False
+Transicion: 410 Con: E
+Transicion: 411 Con: m
+estado: 411
+Aceptacion: False
+Transicion: 411 Con: E
+Transicion: 412 Con: E
+estado: 412
+Aceptacion: False
+Transicion: 412 Con: E
+Transicion: 415 Con: E
+estado: 413
+Aceptacion: False
+Transicion: 413 Con: E
+Transicion: 414 Con: n
+estado: 414
+Aceptacion: False
+Transicion: 414 Con: E
+Transicion: 415 Con: E
+estado: 415
+Aceptacion: False
+Transicion: 415 Con: E
+Transicion: 418 Con: E
+estado: 416
+Aceptacion: False
+Transicion: 416 Con: E
+Transicion: 417 Con: o
+estado: 417
+Aceptacion: False
+Transicion: 417 Con: E
+Transicion: 418 Con: E
+estado: 418
+Aceptacion: False
+Transicion: 418 Con: E
+Transicion: 421 Con: E
+estado: 419
+Aceptacion: False
+Transicion: 419 Con: E
+Transicion: 420 Con: p
+estado: 420
+Aceptacion: False
+Transicion: 420 Con: E
+Transicion: 421 Con: E
+estado: 421
+Aceptacion: False
+Transicion: 421 Con: E
+Transicion: 424 Con: E
+estado: 422
+Aceptacion: False
+Transicion: 422 Con: E
+Transicion: 423 Con: q
+estado: 423
+Aceptacion: False
+Transicion: 423 Con: E
+Transicion: 424 Con: E
+estado: 424
+Aceptacion: False
+Transicion: 424 Con: E
+Transicion: 427 Con: E
+estado: 425
+Aceptacion: False
+Transicion: 425 Con: E
+Transicion: 426 Con: r
+estado: 426
+Aceptacion: False
+Transicion: 426 Con: E
+Transicion: 427 Con: E
+estado: 427
+Aceptacion: False
+Transicion: 427 Con: E
+Transicion: 430 Con: E
+estado: 428
+Aceptacion: False
+Transicion: 428 Con: E
+Transicion: 429 Con: s
+estado: 429
+Aceptacion: False
+Transicion: 429 Con: E
+Transicion: 430 Con: E
+estado: 430
+Aceptacion: False
+Transicion: 430 Con: E
+Transicion: 433 Con: E
+estado: 431
+Aceptacion: False
+Transicion: 431 Con: E
+Transicion: 432 Con: t
+estado: 432
+Aceptacion: False
+Transicion: 432 Con: E
+Transicion: 433 Con: E
+estado: 433
+Aceptacion: False
+Transicion: 433 Con: E
+Transicion: 436 Con: E
+estado: 434
+Aceptacion: False
+Transicion: 434 Con: E
+Transicion: 435 Con: u
+estado: 435
+Aceptacion: False
+Transicion: 435 Con: E
+Transicion: 436 Con: E
+estado: 436
+Aceptacion: False
+Transicion: 436 Con: E
+Transicion: 439 Con: E
+estado: 437
+Aceptacion: False
+Transicion: 437 Con: E
+Transicion: 438 Con: v
+estado: 438
+Aceptacion: False
+Transicion: 438 Con: E
+Transicion: 439 Con: E
+estado: 439
+Aceptacion: False
+Transicion: 439 Con: E
+Transicion: 442 Con: E
+estado: 440
+Aceptacion: False
+Transicion: 440 Con: E
+Transicion: 441 Con: w
+estado: 441
+Aceptacion: False
+Transicion: 441 Con: E
+Transicion: 442 Con: E
+estado: 442
+Aceptacion: False
+Transicion: 442 Con: E
+Transicion: 445 Con: E
+estado: 443
+Aceptacion: False
+Transicion: 443 Con: E
+Transicion: 444 Con: x
+estado: 444
+Aceptacion: False
+Transicion: 444 Con: E
+Transicion: 445 Con: E
+estado: 445
+Aceptacion: False
+Transicion: 445 Con: E
+Transicion: 448 Con: E
+estado: 446
+Aceptacion: False
+Transicion: 446 Con: E
+Transicion: 447 Con: y
+estado: 447
+Aceptacion: False
+Transicion: 447 Con: E
+Transicion: 448 Con: E
+estado: 448
+Aceptacion: False
+Transicion: 448 Con: E
+Transicion: 451 Con: E
+estado: 449
+Aceptacion: False
+Transicion: 449 Con: E
+Transicion: 450 Con: z
+estado: 450
+Aceptacion: False
+Transicion: 450 Con: E
+Transicion: 451 Con: E
+estado: 451
+Aceptacion: False
+Transicion: 451 Con: E
+Transicion: 490 Con: E
+estado: 452
+Aceptacion: False
+Transicion: 452 Con: E
+Transicion: 453 Con: E
+Transicion: 487 Con: E
+estado: 453
+Aceptacion: False
+Transicion: 453 Con: E
+Transicion: 454 Con: E
+Transicion: 484 Con: E
+estado: 454
+Aceptacion: False
+Transicion: 454 Con: E
+Transicion: 455 Con: E
+Transicion: 481 Con: E
+estado: 455
+Aceptacion: False
+Transicion: 455 Con: E
+Transicion: 456 Con: E
+Transicion: 478 Con: E
+estado: 456
+Aceptacion: False
+Transicion: 456 Con: E
+Transicion: 457 Con: E
+Transicion: 475 Con: E
+estado: 457
+Aceptacion: False
+Transicion: 457 Con: E
+Transicion: 458 Con: E
+Transicion: 472 Con: E
+estado: 458
+Aceptacion: False
+Transicion: 458 Con: E
+Transicion: 459 Con: E
+Transicion: 469 Con: E
+estado: 459
+Aceptacion: False
+Transicion: 459 Con: E
+Transicion: 460 Con: E
+Transicion: 466 Con: E
+estado: 460
+Aceptacion: False
+Transicion: 460 Con: E
+Transicion: 461 Con: E
+Transicion: 463 Con: E
+estado: 461
+Aceptacion: False
+Transicion: 461 Con: E
+Transicion: 462 Con: 0
+estado: 462
+Aceptacion: False
+Transicion: 462 Con: E
+Transicion: 465 Con: E
+estado: 463
+Aceptacion: False
+Transicion: 463 Con: E
+Transicion: 464 Con: 1
+estado: 464
+Aceptacion: False
+Transicion: 464 Con: E
+Transicion: 465 Con: E
+estado: 465
+Aceptacion: False
+Transicion: 465 Con: E
+Transicion: 468 Con: E
+estado: 466
+Aceptacion: False
+Transicion: 466 Con: E
+Transicion: 467 Con: 2
+estado: 467
+Aceptacion: False
+Transicion: 467 Con: E
+Transicion: 468 Con: E
+estado: 468
+Aceptacion: False
+Transicion: 468 Con: E
+Transicion: 471 Con: E
+estado: 469
+Aceptacion: False
+Transicion: 469 Con: E
+Transicion: 470 Con: 3
+estado: 470
+Aceptacion: False
+Transicion: 470 Con: E
+Transicion: 471 Con: E
+estado: 471
+Aceptacion: False
+Transicion: 471 Con: E
+Transicion: 474 Con: E
+estado: 472
+Aceptacion: False
+Transicion: 472 Con: E
+Transicion: 473 Con: 4
+estado: 473
+Aceptacion: False
+Transicion: 473 Con: E
+Transicion: 474 Con: E
+estado: 474
+Aceptacion: False
+Transicion: 474 Con: E
+Transicion: 477 Con: E
+estado: 475
+Aceptacion: False
+Transicion: 475 Con: E
+Transicion: 476 Con: 5
+estado: 476
+Aceptacion: False
+Transicion: 476 Con: E
+Transicion: 477 Con: E
+estado: 477
+Aceptacion: False
+Transicion: 477 Con: E
+Transicion: 480 Con: E
+estado: 478
+Aceptacion: False
+Transicion: 478 Con: E
+Transicion: 479 Con: 6
+estado: 479
+Aceptacion: False
+Transicion: 479 Con: E
+Transicion: 480 Con: E
+estado: 480
+Aceptacion: False
+Transicion: 480 Con: E
+Transicion: 483 Con: E
+estado: 481
